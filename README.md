@@ -1,7 +1,8 @@
+![360_F_43028992_xoR6s9egyaM9oTXV4yXtDtg3tWIkPsgC](https://github.com/JessemanGray/GraphUp/assets/123507565/aadb0335-463c-47d9-9be6-8bdd2a4beaec)
 # GraphUp
 They say there are two seasons in a big city, winter and construction...
 
-GraphUp is intended to be a lightweight dashboard for viewing MEP (mechanical, electrical, and plumbing) 3d renderings. The app can render multiple windows for different floors or zones, and it has modest interactive functionality with sliders to view different layers. 
+GraphUp is intended to be a lightweight dashboard for viewing MEP (mechanical, electrical, and plumbing) 3d renderings. The app can display multiple windows for different floors or zones, and it has modest interactive functionality with sliders to view different layers. 
 
 Future improvements will include more complex measurement labels and informatics, as well as being accessible by mobile device through an API.
 
