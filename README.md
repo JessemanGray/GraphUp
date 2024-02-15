@@ -6,7 +6,7 @@ GraphUp is intended to be a lightweight dashboard for viewing MEP (mechanical, e
 
 Future improvements will include more complex measurement labels and informatics, as well as being accessible by mobile device through an API.
 
-Installation & Usage
+#Installation & Usage
 
 GraphUp is currently Under Construction, but a Colab notebook is included in this repository as a template. Readily available standard imports along with plotly, open3D, and Dash complete the setup, and some .ply models are available in this repository as well.
 
@@ -18,7 +18,7 @@ Please note: Using Google Colab allows for a rapid prototyping process, but ther
 
 Currently this app has a few quirks and can only be used on a surface level for visualizing architectural models. Other interesting applications beyond construction could be to create virtual 'memory palaces' to improve cognitive performance, visualization of complex data architectures, world-building, and training for inspections and emergency personel.
 
-Contributions
+#Contributions
 
 Please feel free to fork and use existing template
 
