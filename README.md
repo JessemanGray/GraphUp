@@ -5,11 +5,15 @@ GraphUp is intended to be a lightweight dashboard for viewing MEP (mechanical, e
 
 Future improvements will include more complex measurement labels and informatics, as well as being accessible by mobile device through an API.
 
-Installation
+Installation & Usage
 
-GraphUp is currently Under Construction, but a Colab notebook is included in this repository as a template. Readily available standard imports along with plotly, open3D, and Dash complete the setup, and some .ply models are available in this repository as well
+GraphUp is currently Under Construction, but a Colab notebook is included in this repository as a template. Readily available standard imports along with plotly, open3D, and Dash complete the setup, and some .ply models are available in this repository as well.
 
-Usage
+To modify notebook to users' preference, simply load a ply, obj, or off model into the 'model_path' variable, and the open3d, plotly, and dash components will render the 3D model in a datapoint driven graphical interface. Some parameters may need to be adjusted to achieve optimal results. 
+
+Multiple layers can be overlayed and the opacity adjusted with slider bars in the dashboard area.
+
+Please note: Using Google Colab allows for a rapid prototyping process, but there are still quite a few issues to debug before being able to reliably reproduce images in a Flask app. These features will be added to updated versions oin the near future.
 
 Currently this app has a few quirks and can only be used on a surface level for visualizing architectural models. Other interesting applications beyond construction could be to create virtual 'memory palaces' to improve cognitive performance, visualization of complex data architectures, world-building, and training for inspections and emergency personel.
 
