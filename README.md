@@ -20,6 +20,8 @@ Currently this app has a few quirks and can only be used on a surface level for 
 
 Contributions
 
-Please feel free to fork and use existing template ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+Please feel free to fork and use existing template
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
