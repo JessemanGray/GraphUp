@@ -14,7 +14,7 @@ To modify notebook to users' preference, simply load a PLY, OBJ, or OFF model in
 
 Multiple layers can be overlayed and the opacity adjusted with slider bars in the dashboard area.
 
-Please note: Using Google Colab allows for a rapid prototyping process, but there are still quite a few issues to debug before being able to reliably reproduce images in a Flask app. These features will be added to updated versions oin the near future.
+Please note: Using Google Colab allows for a rapid prototyping process, but there are still quite a few issues to debug before being able to reliably reproduce images in a Flask app. These features will be added to updated versions in the near future.
 
 Currently this app has a few quirks and can only be used on a surface level for visualizing architectural models. Other interesting applications beyond construction could be to create virtual 'memory palaces' to improve cognitive performance, visualization of complex data architectures, world-building, and training for inspections and emergency personnel.
 
